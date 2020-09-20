@@ -1,3 +1,2 @@
-# Demand-Forecasting--Hotel-Booking-Cancellations
+# Demand-Forecasting
 
-![](https://cdn.openpr.com/T/2/T218936649_g.jpg)
